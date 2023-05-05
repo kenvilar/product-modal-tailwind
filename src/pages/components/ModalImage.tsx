@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Gizeh from "../../images/43693.jpg";
+import Gizeh from "@/images/43693.jpg";
 
 const ModalImage = () => {
   return (
